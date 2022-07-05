@@ -9,13 +9,9 @@ Byte-sized videos for learning Solana development
 - [] Visual: The Sealevel runtime
 - [] Visual: Transactions
 - ### Working with existing programs
-- [] Example: Creating an account
-- [] Example: Transferring SOL
-- [] Example: Creating an SPL Token
-- [] Example: Transferring tokens
+- :warning: Cover all the examples from [Solana Program Examples](https://github.com/solana-developers/program-examples)
 - ### Writing your own program
-- [] Example: Writing a counter program
-- [] Example: Writing a ?????????
+- :warning: Cover all the examples from [Solana Program Examples](https://github.com/solana-developers/program-examples)
 - ### Comparing Native to Anchor
 - [] Test: Building a large program in native vs. Anchor
 - ### dApp development with other languages/frameworks
