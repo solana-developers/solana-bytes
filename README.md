@@ -1,32 +1,26 @@
 # solana-bytes
 Byte-sized videos for learning Solana development
 
+Test YouTube channel: https://www.youtube.com/channel/UCcP7lAKS6XOL_cczIfEqcHQ
+
 
 ## Videos:
 - ### Account Model
-- [] Visual: Account model basics
-- [] Visual: Program Derived Addresses & Accounts
-- [] Visual: The Sealevel runtime
-- [] Visual: Transactions
-- ### Working with existing programs
-- :warning: Cover all the examples from [Solana Program Examples](https://github.com/solana-developers/program-examples)
-- ### Writing your own program
-- :warning: Cover all the examples from [Solana Program Examples](https://github.com/solana-developers/program-examples)
-- ### Comparing Native to Anchor
-- [] Test: Building a large program in native vs. Anchor
-- ### dApp development with other languages/frameworks
-- [] ExpressJS
-- [] Python/Flask
-- [] Java/Spring Boot
-- [] Rust/Actix
+- [ ] Visual: Account model basics
+- [ ] Visual: The Sealevel runtime
+- [ ] Visual: Transactions
+- [ ] Visual: Program Derived Addresses
+- ### Writing Programs
+- [x] Demo: Hello Solana
+- [ ] Demo: Transfer SOL
+- [ ] Demo: Create a PDA (Counter example)
+- [ ] Demo: Dynamic PDAs (Larger example)
+- [ ] Demo: Create an SPL Token
+- [ ] Demo: Transferring tokens
+- [ ] Demo: Create an NFT
+- [ ] Demo: Selling NFTs
 - ### Web2 to Web3 on Solana
 - *This section should focus on common Web2 demos being turned into their Web3 counterparts to embolden the account model.*
-- [] Example: Building a Twitter backend
-- [] Example: Building a Shopping Cart backend
-- [] Example: Building a SQL SDK for Solana PDAs (this one would be so cool)
-- ### Comparing Ethereum to Solana
-- [] Visual: ??
-- ### Solana development updates
-- [] Visual: QUIC
-- [] Visual: Stake-weighted QoS
-- [] Visual: Fee Markets
+- [ ] Example: Building a Twitter backend
+- [ ] Example: Building a Shopping Cart backend
+- [ ] Example: Building a SQL SDK for Solana PDAs (this one would be so cool)
