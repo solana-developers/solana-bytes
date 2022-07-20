@@ -8,7 +8,7 @@ This repository is for planning upcoming Solana development educational video co
 ## Byte Videos:
 **Each Byte Video topic can be demonstrated for both:**
 - :crab: On-chain         (Rust - both Native & Anchor)
-- :space_invader: Client-side      (Typescript)   
+- :space_invader: Client-side      (Typescript - both Native & Anchor)   
 
 **We'd also have animation, concept-focused videos:**
 - :star2: Animations   
