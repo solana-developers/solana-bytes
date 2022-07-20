@@ -15,9 +15,9 @@ This repository is for planning upcoming Solana development educational video co
 
 :bulb: Perhaps each of the sections below can be a playlist:
 * ### Basics
-    * :star2:  [ ]      Programs & Accounts
-    * :star2:  [ ]      Transactions
-    * :star2:  [ ]      The Sealevel runtime
+    * :star2:  [ ]      Programs & Accounts
+    * :star2:  [ ]      Transactions
+    * :star2:  [ ]      The Sealevel runtime
     * :crab:  [x]      :space_invader:  [ ]      Create an Account
     * :crab:  [x]      :space_invader:  [ ]      Rent
     * :crab:  [ ]      :space_invader:  [ ]      Destroy an Account
