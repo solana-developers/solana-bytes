@@ -6,31 +6,38 @@ This repository is for planning upcoming Solana development educational video co
 :space_invader: [Typescript code](https://github.com/solana-developers/web3-examples)   
 
 ## Byte Videos:
-Each Byte Video topic can be demonstrated for both:
+**Each Byte Video topic can be demonstrated for both:**
 - :crab: On-chain         (Rust - both Native & Anchor)
 - :space_invader: Client-side      (Typescript)   
 
-With the exception of a handful of Account Model videos:
-- :star2: Animations
-* ### Account Model (Visuals)
-    * :star2:  [ ]      Account model basics
-    * :star2:  [ ]      The Sealevel runtime
-    * :star2:  [ ]      Transactions
-    * :star2:  [ ]      Program Derived Addresses
+**We'd also have animation, concept-focused videos:**
+- :star2: Animations   
+
+:bulb: Perhaps each of the sections below can be a playlist:
 * ### Basics
-    * :crab:  [x]      :space_invader:  [ ]      Hello Solana
+    * :star2:  [ ]      Programs & Accounts
+    * :star2:  [ ]      Transactions
+    * :star2:  [ ]      The Sealevel runtime
     * :crab:  [x]      :space_invader:  [ ]      Create an Account
     * :crab:  [x]      :space_invader:  [ ]      Rent
+    * :crab:  [ ]      :space_invader:  [ ]      Destroy an Account
     * :crab:  [x]      :space_invader:  [ ]      Transfer SOL
     * :crab:  [ ]      :space_invader:  [ ]      Stake SOL with a validator
-    * :crab:  [ ]      :space_invader:  [ ]      Create a PDA (Counter example)
-    * :crab:  [ ]      :space_invader:  [ ]      Dynamic PDAs (Larger example)
+* ### Writing Programs (On-Chain Only)
+    * :crab:  [x]      Hello Solana
+    * :crab:  [ ]      Processing Instructions
+    * :crab:  [ ]      Checking Accounts
+    * :star2:  [ ]      Program Derived Addresses
+    * :crab:  [ ]      Create a simple PDA (Counter example)
+    * :crab:  [ ]      PDAs Expanded (Larger example)
+    * :crab:  [ ]      PDAs as a Database (Dynamic PDAs for user data)
 * ### Tokens
     * :crab:  [ ]      :space_invader:  [ ]      Create an SPL Token
-    * :crab:  [ ]      :space_invader:  [ ]      SPL Token Metadata
-    * :crab:  [ ]      :space_invader:  [ ]      Transferring/Selling Tokens
+    * :crab:  [ ]      :space_invader:  [ ]      Token Metadata
     * :crab:  [ ]      :space_invader:  [ ]      Minting Tokens
-    * :crab:  [ ]      :space_invader:  [ ]      Token Supply
+    * :crab:  [ ]      :space_invader:  [ ]      Transferring Tokens
+    * :crab:  [ ]      :space_invader:  [ ]      Selling Tokens
+    * :crab:  [ ]      :space_invader:  [ ]      Controlling Token Supply
     * :crab:  [ ]      :space_invader:  [ ]      Token Freezing
     * :crab:  [ ]      :space_invader:  [ ]      Yields & Lending
 * ### NFTs
