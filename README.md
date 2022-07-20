@@ -15,8 +15,8 @@ Test YouTube channel: https://www.youtube.com/channel/UCcP7lAKS6XOL_cczIfEqcHQ
 - [ ] Visual: The Sealevel runtime
 - [ ] Visual: Transactions
 - [ ] Visual: Program Derived Addresses
-- ### Basics
-- :crab: [x] :cyclone: [ ] Hello Solana
+* ### Basics
+    * :crab: [x]    :globe_with_meridians: [ ]   Hello Solana
 - [x] Create an Account
 - [x] Rent
 - [x] Transfer SOL
