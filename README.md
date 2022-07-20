@@ -32,18 +32,20 @@ This repository is for planning upcoming Solana development educational video co
     * :crab:  [ ]      PDAs Expanded (Larger example)
     * :crab:  [ ]      PDAs as a Database (Dynamic PDAs for user data)
 * ### Tokens
+    * :star2:  [ ]      SPL Tokens (& Associated Token Acounts)
     * :crab:  [ ]      :space_invader:  [ ]      Create an SPL Token
     * :crab:  [ ]      :space_invader:  [ ]      Token Metadata
     * :crab:  [ ]      :space_invader:  [ ]      Minting Tokens
     * :crab:  [ ]      :space_invader:  [ ]      Transferring Tokens
     * :crab:  [ ]      :space_invader:  [ ]      Selling Tokens
     * :crab:  [ ]      :space_invader:  [ ]      Controlling Token Supply
-    * :crab:  [ ]      :space_invader:  [ ]      Token Freezing
-    * :crab:  [ ]      :space_invader:  [ ]      Yields & Lending
+    * :crab:  [ ]      :space_invader:  [ ]      Disabling Token Minting
+    * :crab:  [ ]      :space_invader:  [ ]      Freezing Token Accounts
 * ### NFTs
     * :crab:  [ ]      :space_invader:  [ ]      Create an NFT
     * :crab:  [ ]      :space_invader:  [ ]      NFT Metadata
-    * :crab:  [ ]      :space_invader:  [ ]      Transferring/Selling NFTs
+    * :crab:  [ ]      :space_invader:  [ ]      Master Edition NFT
+    * :crab:  [ ]      :space_invader:  [ ]      Other Edition NFT
     * :crab:  [ ]      :space_invader:  [ ]      NFT Collections
     * :crab:  [ ]      :space_invader:  [ ]      NFT Royalties & Features
     * :crab:  [ ]      :space_invader:  [ ]      NFT Utilities
@@ -65,3 +67,4 @@ This repository is for planning upcoming Solana development educational video co
         * [ ] Twitter (Posts)
         * [ ] Amazon (Shopping Cart & Orders)
         * [ ] Building a SQL SDK for Solana PDAs (this one would be so cool)
+        * [ ] Token lending protocol with yield
