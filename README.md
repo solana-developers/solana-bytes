@@ -1,15 +1,12 @@
 # solana-bytes
-Byte-sized videos for learning Solana development
+This repository is for planning upcoming Solana development educational video content.
 
 Test YouTube channel: https://www.youtube.com/channel/UCcP7lAKS6XOL_cczIfEqcHQ
 
-
-> Most of the examples in the demo (creating accounts, transfers, tokens, NFTs, etc.) can all be done via `web3.js` without the need for a custom program. We could possibly have a byte video for each demo; dubbed something like:
-> - Solana Bytes - Create an Account (On-Chain)
-> - Solana Bytes - Create an Account (Client)
-
-
 ## Byte Videos:
+Each Byte Video topic can be demonstrated for both:
+- :crab: On-chain         (Rust - both Native & Anchor)
+- :space_invader: Client-side      (Typescript)
 * ### Account Model (Visuals)
 - [ ] Visual: Account model basics
 - [ ] Visual: The Sealevel runtime
@@ -17,9 +14,9 @@ Test YouTube channel: https://www.youtube.com/channel/UCcP7lAKS6XOL_cczIfEqcHQ
 - [ ] Visual: Program Derived Addresses
 * ### Basics
     * :crab:  [x]      :space_invader:  [ ]      Hello Solana
-- [x] Create an Account
-- [x] Rent
-- [x] Transfer SOL
+    * :crab:  [x]      :space_invader:  [ ]      Create an Account
+    * :crab:  [x]      :space_invader:  [ ]      Rent
+    * :crab:  [x]      :space_invader:  [ ]      Transfer SOL
 - [ ] Stake SOL with a validator
 - [ ] Create a PDA (Counter example)
 - [ ] Dynamic PDAs (Larger example)
