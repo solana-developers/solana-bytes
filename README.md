@@ -9,34 +9,36 @@ This repository is for planning upcoming Solana development educational video co
 Each Byte Video topic can be demonstrated for both:
 - :crab: On-chain         (Rust - both Native & Anchor)
 - :space_invader: Client-side      (Typescript)
+With the exception of a handful of Account Model videos:
+- :star2: Animations
 * ### Account Model (Visuals)
-- [ ] Visual: Account model basics
-- [ ] Visual: The Sealevel runtime
-- [ ] Visual: Transactions
-- [ ] Visual: Program Derived Addresses
+    * :star2:  [ ]      Account model basics
+    * :star2:  [ ]      The Sealevel runtime
+    * :star2:  [ ]      Transactions
+    * :star2:  [ ]      Program Derived Addresses
 * ### Basics
     * :crab:  [x]      :space_invader:  [ ]      Hello Solana
     * :crab:  [x]      :space_invader:  [ ]      Create an Account
     * :crab:  [x]      :space_invader:  [ ]      Rent
     * :crab:  [x]      :space_invader:  [ ]      Transfer SOL
-- [ ] Stake SOL with a validator
-- [ ] Create a PDA (Counter example)
-- [ ] Dynamic PDAs (Larger example)
+    * :crab:  [ ]      :space_invader:  [ ]      Stake SOL with a validator
+    * :crab:  [ ]      :space_invader:  [ ]      Create a PDA (Counter example)
+    * :crab:  [ ]      :space_invader:  [ ]      Dynamic PDAs (Larger example)
 * ### Tokens
-- [ ] Create an SPL Token
-- [ ] SPL Token Metadata
-- [ ] Transferring/Selling Tokens
-- [ ] Minting Tokens
-- [ ] Token Supply
-- [ ] Token Freezing
-- [ ] Yields & Lending
+    * :crab:  [ ]      :space_invader:  [ ]      Create an SPL Token
+    * :crab:  [ ]      :space_invader:  [ ]      SPL Token Metadata
+    * :crab:  [ ]      :space_invader:  [ ]      Transferring/Selling Tokens
+    * :crab:  [ ]      :space_invader:  [ ]      Minting Tokens
+    * :crab:  [ ]      :space_invader:  [ ]      Token Supply
+    * :crab:  [ ]      :space_invader:  [ ]      Token Freezing
+    * :crab:  [ ]      :space_invader:  [ ]      Yields & Lending
 * ### NFTs
-- [ ] Create an NFT
-- [ ] NFT Metadata
-- [ ] Transferring/Selling NFTs
-- [ ] NFT Collections
-- [ ] NFT Royalties & Features
-- [ ] NFT Utilities
+    * :crab:  [ ]      :space_invader:  [ ]      Create an NFT
+    * :crab:  [ ]      :space_invader:  [ ]      NFT Metadata
+    * :crab:  [ ]      :space_invader:  [ ]      Transferring/Selling NFTs
+    * :crab:  [ ]      :space_invader:  [ ]      NFT Collections
+    * :crab:  [ ]      :space_invader:  [ ]      NFT Royalties & Features
+    * :crab:  [ ]      :space_invader:  [ ]      NFT Utilities
 
 ## Extensive Videos:
 * ### Solana Program Library
