@@ -14,19 +14,23 @@ This repository is for planning upcoming Solana development educational video co
 - :star2: Animations   
 
 :bulb: Perhaps each of the sections below can be a playlist:
-* ### Basics
+* ### Solana Basics
     * :star2:  [ ]      Programs & Accounts
     * :star2:  [ ]      Transactions
     * :star2:  [ ]      The Sealevel runtime
     * :crab:  [x]      :space_invader:  [ ]      Create an Account
     * :crab:  [x]      :space_invader:  [ ]      Rent
-    * :crab:  [ ]      :space_invader:  [ ]      Destroy an Account
     * :crab:  [x]      :space_invader:  [ ]      Transfer SOL
     * :crab:  [ ]      :space_invader:  [ ]      Stake SOL with a validator
+    * :crab:  [ ]      :space_invader:  [ ]      Add Data an Account
+    * :crab:  [ ]      :space_invader:  [ ]      Reallocate an Account's Data
+    * :crab:  [ ]      :space_invader:  [ ]      Transfer an Account's Ownership
+    * :crab:  [ ]      :space_invader:  [ ]      Destroy an Account
 * ### Writing Programs (On-Chain Only)
     * :crab:  [x]      Hello Solana
     * :crab:  [ ]      Processing Instructions
     * :crab:  [ ]      Checking Accounts
+    * :crab:  [ ]      Respository Layout
     * :star2:  [ ]      Program Derived Addresses
     * :crab:  [ ]      Create a simple PDA (Counter example)
     * :crab:  [ ]      PDAs Expanded (Larger example)
@@ -36,6 +40,7 @@ This repository is for planning upcoming Solana development educational video co
     * :crab:  [ ]      :space_invader:  [ ]      Create an SPL Token
     * :crab:  [ ]      :space_invader:  [ ]      Token Metadata
     * :crab:  [ ]      :space_invader:  [ ]      Minting Tokens
+    * :crab:  [ ]      :space_invader:  [ ]      Mint Authority
     * :crab:  [ ]      :space_invader:  [ ]      Transferring Tokens
     * :crab:  [ ]      :space_invader:  [ ]      Selling Tokens
     * :crab:  [ ]      :space_invader:  [ ]      Controlling Token Supply
