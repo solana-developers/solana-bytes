@@ -1,7 +1,9 @@
 # solana-bytes
 This repository is for planning upcoming Solana development educational video content.
 
-Test YouTube channel: https://www.youtube.com/channel/UCcP7lAKS6XOL_cczIfEqcHQ
+:movie_camera: [Test YouTube channel](https://www.youtube.com/channel/UCcP7lAKS6XOL_cczIfEqcHQ)   
+:crab: [Rust code](https://github.com/solana-developers/program-examples)   
+:space_invader: [Typescript code](https://github.com/solana-developers/web3-examples)   
 
 ## Byte Videos:
 Each Byte Video topic can be demonstrated for both:
