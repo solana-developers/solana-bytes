@@ -42,18 +42,18 @@ With the exception of a handful of Account Model videos:
     * :crab:  [ ]      :space_invader:  [ ]      NFT Utilities
 
 ## Extensive Videos:
-* ### Solana Program Library
+* ### :green_book: Solana Program Library
     * **We cover each program front to back like so:**
         1. What it does
         2. Inputs & Outputs
         3. How it works (deep dive into source)
-* ### Open-source Solana Projects
+* ### :mag: Open-source Solana Projects
     * **We cover each project front to back like so:**
         1. What it does
         2. How to use it in development
         2. Features
         3. How it works (deep dive into source)
-* ### dApp Building
+* ### :hammer: dApp Building
     * **Lengthy step-by-step tutorials for basic dApp development using common design patterns.**
         * [ ] Twitter (Posts)
         * [ ] Amazon (Shopping Cart & Orders)
