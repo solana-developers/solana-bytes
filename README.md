@@ -20,12 +20,12 @@ This repository is for planning upcoming Solana development educational video co
     * :star2:  [ ]      The Sealevel runtime
     * :crab:  [x]      :space_invader:  [ ]      Create an Account
     * :crab:  [x]      :space_invader:  [ ]      Rent
-    * :crab:  [x]      :space_invader:  [ ]      Transfer SOL
-    * :crab:  [ ]      :space_invader:  [ ]      Stake SOL with a validator
     * :crab:  [ ]      :space_invader:  [ ]      Add Data an Account
     * :crab:  [ ]      :space_invader:  [ ]      Reallocate an Account's Data
     * :crab:  [ ]      :space_invader:  [ ]      Transfer an Account's Ownership
     * :crab:  [ ]      :space_invader:  [ ]      Destroy an Account
+    * :crab:  [x]      :space_invader:  [ ]      Transfer SOL
+    * :crab:  [ ]      :space_invader:  [ ]      Stake SOL with a validator
 * ### Writing Programs (On-Chain Only)
     * :crab:  [x]      Hello Solana
     * :crab:  [ ]      Processing Instructions
