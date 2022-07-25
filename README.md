@@ -20,7 +20,7 @@ This repository is for planning upcoming Solana development educational video co
     * :star2:  [ ]      The Sealevel runtime
     * :crab:  [x]      :space_invader:  [ ]      Create an Account
     * :crab:  [x]      :space_invader:  [ ]      Rent
-    * :crab:  [ ]      :space_invader:  [ ]      Add Data an Account
+    * :crab:  [ ]      :space_invader:  [ ]      Add Data to an Account
     * :crab:  [ ]      :space_invader:  [ ]      Reallocate an Account's Data
     * :crab:  [ ]      :space_invader:  [ ]      Transfer an Account's Ownership
     * :crab:  [ ]      :space_invader:  [ ]      Destroy an Account
