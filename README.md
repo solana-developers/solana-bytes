@@ -31,6 +31,7 @@ This repository is for planning upcoming Solana development educational video co
     * :crab:  [ ]      Processing Instructions
     * :crab:  [ ]      Checking Accounts
     * :crab:  [ ]      Respository Layout
+    * :crab:  [ ]      Cross-program Invocation
     * :star2:  [ ]      Program Derived Addresses
     * :crab:  [ ]      Create a simple PDA (Counter example)
     * :crab:  [ ]      PDAs Expanded (Larger example)
