@@ -15,7 +15,7 @@ This repository is for planning upcoming Solana development educational video co
 
 :bulb: Perhaps each of the sections below can be a playlist:
 * ### Solana Basics
-    * :star2:  [ ]      Programs & Accounts
+    * :star2:  [ ]      The Solana Programming Model
     * :crab:  [x]      :space_invader:  [ ]      Create an Account
     * :crab:  [x]      :space_invader:  [ ]      Rent
     * :crab:  [ ]      :space_invader:  [ ]      Add Data to an Account
