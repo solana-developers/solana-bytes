@@ -25,6 +25,7 @@ This repository is for planning upcoming Solana development educational video co
     * :crab:  [x]      :space_invader:  [ ]      Transfer SOL
     * :crab:  [ ]      :space_invader:  [ ]      Stake SOL with a validator
 * ### Writing Programs (On-Chain Only)
+    * :star2:  [ ]      Solana Playground IDE
     * :crab:  [x]      Hello Solana
     * :crab:  [ ]      Processing Instructions
     * :crab:  [ ]      Checking Accounts
