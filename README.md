@@ -16,44 +16,44 @@ This repository is for planning upcoming Solana development educational video co
 
 :bulb: Perhaps each of the sections below can be a playlist:
 * ### Solana Basics
-    * :star2:  [x]      The Solana Programming Model
-    * :crab:  [x]      :space_invader:  [ ]      Create an Account
-    * :crab:  [x]      :space_invader:  [ ]      Rent
-    * :crab:  [ ]      :space_invader:  [ ]      Add Data to an Account
-    * :crab:  [ ]      :space_invader:  [ ]      Reallocate an Account's Data
-    * :crab:  [ ]      :space_invader:  [ ]      Transfer an Account's Ownership
-    * :crab:  [ ]      :space_invader:  [ ]      Destroy an Account
-    * :crab:  [x]      :space_invader:  [ ]      Transfer SOL
-    * :crab:  [ ]      :space_invader:  [ ]      Stake SOL with a validator
+    * [x]  :star2:      The Solana Programming Model
+    * [x]  :crab:      [ ]  :space_invader:      Create an Account
+    * [x]  :crab:      [ ]  :space_invader:      Rent
+    * [ ]  :crab:      [ ]  :space_invader:      Add Data to an Account
+    * [ ]  :crab:      [ ]  :space_invader:      Reallocate an Account's Data
+    * [ ]  :crab:      [ ]  :space_invader:      Transfer an Account's Ownership
+    * [ ]  :crab:      [ ]  :space_invader:      Destroy an Account
+    * [x]  :crab:      [ ]  :space_invader:      Transfer SOL
+    * [ ]  :crab:      [ ]  :space_invader:      Stake SOL with a validator
 * ### Writing Programs (On-Chain Only)
-    * :crab:  [x]      Hello Solana
-    * :crab:  [x]      Processing Instructions
-    * :crab:  [x]      Checking Accounts
-    * :crab:  [ ]      Respository Layout
-    * :crab:  [ ]      Cross-program Invocation
-    * :star2:  [ ]      Program Derived Addresses
-    * :crab:  [ ]      Create a simple PDA (Counter example)
-    * :crab:  [ ]      PDAs Expanded (Larger example)
-    * :crab:  [ ]      PDAs as a Database (Dynamic PDAs for user data)
+    * [x]  :crab:      Hello Solana
+    * [x]  :crab:      Processing Instructions
+    * [x]  :crab:      Checking Accounts
+    * [ ]  :crab:      Respository Layout
+    * [ ]  :crab:      Cross-program Invocation
+    * [ ]  :star2:      Program Derived Addresses
+    * [ ]  :crab:      Create a simple PDA (Counter example)
+    * [ ]  :crab:      PDAs Expanded (Larger example)
+    * [ ]  :crab:      PDAs as a Database (Dynamic PDAs for user data)
 * ### Tokens
     * :star2:  [ ]      SPL Tokens (& Associated Token Acounts)
-    * :crab:  [ ]      :space_invader:  [ ]      Create an SPL Token
-    * :crab:  [ ]      :space_invader:  [ ]      Token Metadata
-    * :crab:  [ ]      :space_invader:  [ ]      Minting Tokens
-    * :crab:  [ ]      :space_invader:  [ ]      Mint Authority
-    * :crab:  [ ]      :space_invader:  [ ]      Transferring Tokens
-    * :crab:  [ ]      :space_invader:  [ ]      Selling Tokens
-    * :crab:  [ ]      :space_invader:  [ ]      Controlling Token Supply
-    * :crab:  [ ]      :space_invader:  [ ]      Disabling Token Minting
-    * :crab:  [ ]      :space_invader:  [ ]      Freezing Token Accounts
+    * [ ]  :crab:      [ ]  :space_invader:      Create an SPL Token
+    * [ ]  :crab:      [ ]  :space_invader:      Token Metadata
+    * [ ]  :crab:      [ ]  :space_invader:      Minting Tokens
+    * [ ]  :crab:      [ ]  :space_invader:      Mint Authority
+    * [ ]  :crab:      [ ]  :space_invader:      Transferring Tokens
+    * [ ]  :crab:      [ ]  :space_invader:      Selling Tokens
+    * [ ]  :crab:      [ ]  :space_invader:      Controlling Token Supply
+    * [ ]  :crab:      [ ]  :space_invader:      Disabling Token Minting
+    * [ ]  :crab:      [ ]  :space_invader:      Freezing Token Accounts
 * ### NFTs
-    * :crab:  [ ]      :space_invader:  [ ]      Create an NFT
-    * :crab:  [ ]      :space_invader:  [ ]      NFT Metadata
-    * :crab:  [ ]      :space_invader:  [ ]      Master Edition NFT
-    * :crab:  [ ]      :space_invader:  [ ]      Other Edition NFT
-    * :crab:  [ ]      :space_invader:  [ ]      NFT Collections
-    * :crab:  [ ]      :space_invader:  [ ]      NFT Royalties & Features
-    * :crab:  [ ]      :space_invader:  [ ]      NFT Utilities
+    * [ ]  :crab:      [ ]  :space_invader:      Create an NFT
+    * [ ]  :crab:      [ ]  :space_invader:      NFT Metadata
+    * [ ]  :crab:      [ ]  :space_invader:      Master Edition NFT
+    * [ ]  :crab:      [ ]  :space_invader:      Other Edition NFT
+    * [ ]  :crab:      [ ]  :space_invader:      NFT Collections
+    * [ ]  :crab:      [ ]  :space_invader:      NFT Royalties & Features
+    * [ ]  :crab:      [ ]  :space_invader:      NFT Utilities
 
 ## Extensive Videos:
 * ### :green_book: Solana Program Library
