@@ -17,24 +17,21 @@ This repository is for planning upcoming Solana development educational video co
 :bulb: Perhaps each of the sections below can be a playlist:
 * ### Solana Basics
     * [x]  :star2:      The Solana Programming Model
-    * [x]  :crab:      [ ]  :space_invader:      Create an Account
-    * [x]  :crab:      [ ]  :space_invader:      Rent
-    * [ ]  :crab:      [ ]  :space_invader:      Add Data to an Account
-    * [ ]  :crab:      [ ]  :space_invader:      Reallocate an Account's Data
-    * [ ]  :crab:      [ ]  :space_invader:      Transfer an Account's Ownership
-    * [ ]  :crab:      [ ]  :space_invader:      Destroy an Account
-    * [x]  :crab:      [ ]  :space_invader:      Transfer SOL
+    * [x]  :crab:      [ ]  :space_invader:      Accounts
+    * [x]  :crab:      [ ]  :space_invader:      Account Data & Rent
+    * [ ]  :crab:      [ ]  :space_invader:      Allocate/Reallocate Account Data
+    * [ ]  :crab:      [ ]  :space_invader:      Transfer SOL
     * [ ]  :crab:      [ ]  :space_invader:      Stake SOL with a validator
+    * [ ]  :crab:      [ ]  :space_invader:      Get Program Accounts
 * ### Writing Programs (On-Chain Only)
     * [x]  :crab:      Hello Solana
-    * [x]  :crab:      Processing Instructions
-    * [x]  :crab:      Checking Accounts
-    * [ ]  :crab:      Respository Layout
-    * [ ]  :crab:      Cross-program Invocation
-    * [ ]  :star2:      Program Derived Addresses
-    * [ ]  :crab:      Create a simple PDA (Counter example)
+    * [x]  :crab:      Intro to Anchor
+    * [x]  :crab:      Intro to Seahorse
+    * [x]  :crab:      Cross-program Invocation
+    * [x]  :crab:      Program Derived Addresses
+    * [ ]  :crab:      Processing Instructions
+    * [ ]  :crab:      Repository Layout
     * [ ]  :crab:      PDAs Expanded (Larger example)
-    * [ ]  :crab:      PDAs as a Database (Dynamic PDAs for user data)
 * ### Tokens
     * :star2:  [ ]      SPL Tokens (& Associated Token Acounts)
     * [ ]  :crab:      [ ]  :space_invader:      Create an SPL Token
